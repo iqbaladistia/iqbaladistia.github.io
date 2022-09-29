@@ -1,0 +1,87 @@
+{
+  "featured": {
+    "title": "MY WEBSITE",
+    "urls": [
+      {
+        "title": "Blog Demo",
+        "url": "https://lastapk.me",
+        "body": "Demo Web untuk artikel Atau sesuai kebutuhan, BTW NANTI INI WEB DIBUAT UNTUK DOWNLOAD SOFTWARE DAN ALP MOD",
+        "tag": ["DEMO", "WEB"],
+        "published_date": "2022-09-29"
+      },
+      {
+        "title": "Toko Online Demo",
+        "url": "https:/iqbaladistia.my.id",
+        "body": "Berguna untuk kamu yang ingin berjualan Online,Di tiktok ataupun instagram",
+        "tag": ["DEMO", "WEB"],
+        "published_date": "2022-09-26"
+      },
+      {
+        "title": "Web Loker Simpel",
+        "url": "https:/iinfoinloker.my.id",
+        "body": "Sudah tidak aktif tapi sedih ,(",
+        "tag": ["DEMO", "WEB"],
+        "published_date": "2022-09-26"
+      },      
+      {
+        "title": "Demo Landing Page",
+        "url": "Blank",
+        "body": "YA WEB INI CONTOHNYA .",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2025-04-18"
+      },
+
+      {
+        "title": "Daftar Hackathon NEXGEN Challenge",
+        "url": "https://www.kejarmimpi.id/nexgenchallenge",
+        "body": "Program hackathon dari CIMB Niaga dengan total hadiah 100 juta. Periode pendaftaran 27 aug - 30 sept 2021.",
+        "tag": ["EVENT", "COMPETITION"],
+        "published_date": "2021-09-19"
+      }
+    ]
+  },
+
+  "products": {
+    "title": "Products",
+    "urls": [
+      {
+        "image": "https://user-images.githubusercontent.com/111751608/193122651-b66fd10a-e966-4e7c-aa52-c41cbdba9c5b.png",
+        "title": "HOSTING CPANEL",
+        "beli": "https://billing.exabytes.co.id/aff.php?aff=8301714&page=cpanel-web-hosting",
+        "body": "Cpanel adalah alat atau wadah untuk membuat website",
+        "tag": ["link affiliate", "PRODUCT"],
+        "published_date": "2032-06-25"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/111751608/193124765-b1def9d3-c909-4dd4-86b5-4e39e6cf5099.jpeg",
+        "title": "VPS WINDOWS SSD",
+        "beli": "https://billing.exabytes.co.id/aff.php?aff=8301714&page=vps-windows-ssd",
+        "tokopedia": "https://tokopedia.link/f3bKC6Ozhsb",
+        "body": "VPS Windows adalah jenis server virtual yang berfungsi untuk menyimpan file dan data pada website. Secara khusus, server virtual ini dirancang untuk menjalankan aplikasi berbasis Windows..",
+        "tag": ["link affiliate", "PRODUCT"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/111751608/193127226-1035dacf-815d-41d8-995e-f044333da13d.jpeg",
+        "title": "Email Bisnis",
+        "beli": "https://billing.exabytes.co.id/aff.php?aff=8301714&page=email-bisnis",
+        "tokopedia": "https://tokopedia.link/M5VPGXUzhsb",
+        "body": "Email bisnis adalah alamat email yang diakhiri nama domain perusahaan, bisnis, atau instansi setelah simbol '@'. Umumnya, fungsi alamat email khusus bisnis adalah untuk komunikasi internal, integrasi tool penunjang kinerja, dan branding perusahaan",
+        "tag": ["link affiliate", "PRODUCT"],
+        "published_date": "2032-05-24"
+      }
+    ]
+  },
+
+  "support": {
+    "title": "Support",
+    "urls": [
+      {
+        "title": "Traktir iqbal beli kopi.",
+        "url": "https://saweria.co/iqbaladistia",
+        "body": "Makasih udah support!",
+        "tag": ["SUPPORT", "TRAKTIR"]
+      }
+    ]
+  }
+}
